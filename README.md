@@ -30,7 +30,7 @@ A curated list of awesome tools, projects, docs related related to OpenAI's APIs
   <li><a href="https://beta.openai.com/docs/guides/fine-tuning">Fine-tuning</a></li>
 </ul>
 
-### API Reference
+### API References
 To install the official Python bindings, run the following command:
 ```
 pip install openai
@@ -41,7 +41,7 @@ To install the official Node.js library, run the following command in your Node.
 npm install openai
 ```
 Authentication
-<br>The OpenAI API uses API keys for authentication. Visit your API Keys page to retrieve the API key you'll use in your requests.
+<br>The OpenAI API uses API keys for authentication. Visit your <a href="https://beta.openai.com/account/api-keys">API Keys</a>  page to retrieve the API key you'll use in your requests.
 
 Remember that your API key is a secret! Do not share it with others or expose it in any client-side code (browsers, apps). Production requests must be routed through your own backend server where your API key can be securely loaded from an environment variable or key management service.
 
