@@ -30,3 +30,12 @@ A curated list of awesome tools, projects, docs related related to OpenAI's APIs
   <li><a href="https://beta.openai.com/docs/guides/fine-tuning">Fine-tuning</a></li>
 </ul>
 
+### API Reference
+To install the official Python bindings, run the following command:
+
+pip install openai
+To install the official Node.js library, run the following command in your Node.js project directory:
+
+```
+npm install openai
+```
