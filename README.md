@@ -17,6 +17,8 @@ A curated list of awesome tools, projects, docs related related to OpenAI's APIs
 ### Models
 <ul>
   <li><a href="https://beta.openai.com/docs/models/gpt-3">GPT-3</a></li>
+  <li><a href="https://beta.openai.com/docs/models/codex">Codex</a></li>
+  <li><a href="https://beta.openai.com/docs/models/content-filter">Content filter</a></li>
 </ul>
 
 ### Build applications
