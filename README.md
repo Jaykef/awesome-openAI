@@ -41,7 +41,7 @@ To install the official Node.js library, run the following command in your Node.
 npm install openai
 ```
 Authentication
-The OpenAI API uses API keys for authentication. Visit your API Keys page to retrieve the API key you'll use in your requests.
+<br>The OpenAI API uses API keys for authentication. Visit your API Keys page to retrieve the API key you'll use in your requests.
 
 Remember that your API key is a secret! Do not share it with others or expose it in any client-side code (browsers, apps). Production requests must be routed through your own backend server where your API key can be securely loaded from an environment variable or key management service.
 
