@@ -8,3 +8,6 @@ A curated list of awesome tools, projects, docs related related to OpenAI's APIs
   <li><a href="https://beta.openai.com/examples">OpenAI Examples</a></li>
   <li><a href="https://beta.openai.com/playground">OpenAI Playground</a></li>
 </ul>
+
+### Quick Start
+<li><a href="https://beta.openai.com/docs/quickstart">OpenAI Quick Start</a></li>
