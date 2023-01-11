@@ -1,5 +1,6 @@
 # Awesome-openAI
 A curated list of all things awesome about OpenAI
+
 <img src="banner.png" />
 ### OpenAI General Resources
 <ul>
