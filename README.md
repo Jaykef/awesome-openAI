@@ -1,6 +1,6 @@
 # Awesome-openAI
-A curated list of awesome tools, projects, docs related related to OpenAI's APIs
-
+A curated list of all things awesome about OpenAI
+<img src="banner.png" />
 ### OpenAI General Resources
 <ul>
   <li><a href="https://beta.openai.com/">OpenAI Overview</a></li>
