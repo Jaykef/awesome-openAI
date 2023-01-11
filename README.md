@@ -10,4 +10,6 @@ A curated list of awesome tools, projects, docs related related to OpenAI's APIs
 </ul>
 
 ### Quick Start
-<li><a href="https://beta.openai.com/docs/quickstart">OpenAI Quick Start</a></li>
+<ul>
+  <li><a href="https://beta.openai.com/docs/quickstart">OpenAI Quick Start</a></li>
+</ul>
