@@ -32,8 +32,9 @@ A curated list of awesome tools, projects, docs related related to OpenAI's APIs
 
 ### API Reference
 To install the official Python bindings, run the following command:
-
+```
 pip install openai
+```
 To install the official Node.js library, run the following command in your Node.js project directory:
 
 ```
