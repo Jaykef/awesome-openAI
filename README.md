@@ -52,12 +52,12 @@ All API requests should include your API key in an Authorization HTTP header as 
 Authorization: Bearer YOUR_API_KEY
 ```
 
-### Applications
+### Popular Applications
 <ul>
   <li><a href="https://chat.openai.com/">ChatGPT official app</a></li>
   <li><a href="https://beta.openai.com/docs/guides/images">Dalle - Official Image generation app</a></li>
   <li><a href="https:https://github.com/transitive-bullshit/chatgpt-twitter-bot">Twitter bot </a></li>
-  <li><a href="https://github.com/danielgross/whatsapp-gpt">Whatsapp bot</a></li>
+  <li><a href="https://github.com/franalgaba/chatgpt-telegram-bot-serverless">Serverless Telegram bot</a></li>
   <li><a href="https://beta.openai.com/docs/guides/fine-tuning">Fine-tuning</a></li>
 </ul>
 
