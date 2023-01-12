@@ -32,6 +32,8 @@ A curated list of all things awesome about OpenAI
   <li><a href="https://beta.openai.com/docs/guides/fine-tuning">Fine-tuning</a></li>
 </ul>
 
+### Guides
+
 ### API References
 To install the official Python bindings, run the following command:
 ```
