@@ -48,7 +48,7 @@ A curated list of all things awesome about OpenAI - the research company behind 
 ### Apps Utilizing OpenAI API with Frontend Frameworks/Libraries
 <ul>
   <li><a href="https://github.com/openai/openai-quickstart-node">OpenAI Quick Start - React</a></li>
-  <li><a href="https://github.com/Jaykef/OpenAI-ImageGeneration-Vue3">Dalle - Vue3, vite, pinia</a></li>
+  <li><a href="https://github.com/Jaykef/OpenAI-ImageGeneration-Vue3">Dalle Clone - Vue3, vite, pinia</a></li>
 </ul>
 
 ### API References
