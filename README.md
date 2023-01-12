@@ -51,6 +51,12 @@ A curated list of all things awesome about OpenAI - the research company behind 
   <li><a href="https://github.com/Jaykef/OpenAI-ImageGeneration-Vue3">Dalle Clone - Vue3, vite, pinia</a></li>
 </ul>
 
+### VSCode Extensions
+<ul>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=dogukanakkaya.chatgpt-code">OpenAI Helper - helps you to use OpenAI products in Visual Studio Code</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=JayBarnes.chatgpt-vscode-plugin">ChatGPT VScode Plugin</a></li>
+</ul>
+
 ### API References
 To install the official Python bindings, run the following command:
 ```
