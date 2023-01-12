@@ -39,7 +39,9 @@ A curated list of all things awesome about OpenAI - the research company behind 
   <li><a href="https://beta.openai.com/docs/guides/images">Dalle - Official Image generation app</a></li>
   <li><a href="https:https://github.com/transitive-bullshit/chatgpt-twitter-bot">Twitter bot </a></li>
   <li><a href="https://github.com/franalgaba/chatgpt-telegram-bot-serverless">Serverless Telegram bot</a></li>
-  <li><a href="https://github.com/Jaykef/OpenAI-ImageGeneration-Vue3">Dalle - Vue3</a></li>
+  <li><a href="https://github.com/Jaykef/OpenAI-ImageGeneration-Vue3">Dalle clone - Vue3</a></li>
+  <li><a href="https://github.com/vincelwt/chatgpt-mac">Mac menubar ChatGPT App</a></li>
+  <li><a href="https://github.com/cesarhuret/docGPT">Google docs - ChatGPT as Addon in Google docs</a></li>
 </ul>
 
 ### Apps Utilizing OpenAI API with Frontend Frameworks/Libraries
