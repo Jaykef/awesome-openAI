@@ -53,7 +53,7 @@ A curated list of all things awesome about OpenAI - the research company behind 
 
 ### VSCode Extensions
 <ul>
-  <li><a href="https://marketplace.visualstudio.com/items?itemName=dogukanakkaya.chatgpt-code">OpenAI Helper - helps you to use OpenAI products in Visual Studio Code</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=dogukanakkaya.chatgpt-code">OpenAI Helper - helps you use OpenAI tools in Visual Studio Code</a></li>
   <li><a href="https://marketplace.visualstudio.com/items?itemName=JayBarnes.chatgpt-vscode-plugin">ChatGPT VScode Plugin</a></li>
 </ul>
 
