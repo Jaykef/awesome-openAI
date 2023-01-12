@@ -14,6 +14,7 @@ A curated list of all things awesome about OpenAI - the research company behind 
 ### Quick Start
 <ul>
   <li><a href="https://beta.openai.com/docs/quickstart">OpenAI Quick Start</a></li>
+  <li><a href="https://github.com/openai/openai-quickstart-node">OpenAI Quick Start app</a></li>
 </ul>
 
 ### Models
@@ -58,6 +59,12 @@ Authorization: Bearer YOUR_API_KEY
   <li><a href="https://beta.openai.com/docs/guides/images">Dalle - Official Image generation app</a></li>
   <li><a href="https:https://github.com/transitive-bullshit/chatgpt-twitter-bot">Twitter bot </a></li>
   <li><a href="https://github.com/franalgaba/chatgpt-telegram-bot-serverless">Serverless Telegram bot</a></li>
-  <li><a href="https://beta.openai.com/docs/guides/fine-tuning">Fine-tuning</a></li>
+  <li><a href="https://github.com/Jaykef/OpenAI-ImageGeneration-Vue3">Dalle - Vue3</a></li>
+</ul>
+
+### Apps Utilizing OpenAI API with Frontend Frameworks/Libraries
+<ul>
+  <li><a href="https://github.com/openai/openai-quickstart-node">OpenAI Quick Start - React</a></li>
+  <li><a href="https://github.com/Jaykef/OpenAI-ImageGeneration-Vue3">Dalle - Vue3, vite, pinia</a></li>
 </ul>
 
