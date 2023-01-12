@@ -23,7 +23,7 @@ A curated list of all things awesome about OpenAI
   <li><a href="https://beta.openai.com/docs/models/content-filter">Content filter</a></li>
 </ul>
 
-### Build applications
+### Guides on building applications
 <ul>
   <li><a href="https://beta.openai.com/docs/guides/completion">Text completioan</a></li>
   <li><a href="https://beta.openai.com/docs/guides/images">Image generation</a></li>
