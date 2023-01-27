@@ -1,3 +1,6 @@
+# Question and Answer 
+# Answer questions based on existing knowledge
+
 import os
 import openai
 
