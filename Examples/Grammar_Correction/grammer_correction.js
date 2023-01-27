@@ -1,3 +1,6 @@
+// Grammer Correction
+// Corrects sentences into standard English.
+
 const { Configuration, OpenAIApi } = require("openai");
 
 const configuration = new Configuration({
