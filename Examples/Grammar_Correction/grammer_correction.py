@@ -1,3 +1,6 @@
+# Grammer Correction
+# Corrects sentences into standard English.
+
 import os
 import openai
 
