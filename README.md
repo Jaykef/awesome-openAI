@@ -52,6 +52,9 @@ A curated list of all things awesome about OpenAI - the research company behind 
   <li><a href="https://github.com/Jaykef/OpenAI-ImageGeneration-Vue3">Dalle Clone - Vue3, vite, pinia</a></li>
 </ul>
 
+### Devops Tools using OpenAI APIs
+* [Kubernetes and Prometheus ChatGPT Bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot)
+
 ### VSCode Extensions
 <ul>
   <li><a href="https://marketplace.visualstudio.com/items?itemName=dogukanakkaya.chatgpt-code">OpenAI Helper - helps you use OpenAI tools in Visual Studio Code</a></li>
