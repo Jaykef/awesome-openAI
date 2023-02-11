@@ -46,6 +46,11 @@ A curated list of all things awesome about OpenAI - the research company behind 
   <li><a href="https://github.com/m1guelpf/chatgpt-discord">Dicord bot - ChatGPT for discord</a></li>
 </ul>
 
+### Popular Repos
+<ul>
+  <li><a href="https://github.com/humanloop/awesome-chatgpt">Awesome ChatGPT</a></li>
+</ul>
+
 ### Apps Utilizing OpenAI API with Frontend Frameworks/Libraries
 <ul>
   <li><a href="https://github.com/openai/openai-quickstart-node">OpenAI Quick Start - React</a></li>
