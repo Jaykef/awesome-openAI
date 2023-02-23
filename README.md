@@ -48,7 +48,8 @@ A curated list of all things awesome about OpenAI - the research company behind 
 
 ### Popular Repos
 <ul>
-  <li><a href="https://github.com/humanloop/awesome-chatgpt">Awesome ChatGPT</a></li>
+ <li><a href="https://github.com/humanloop/awesome-chatgpt">Awesome ChatGPT</a></li>
+ <li><a href="https://github.com/openai/openai-cookbook">OpenAI Cookbook - examples and guides for using the OpenAI API</a></li>
 </ul>
 
 ### Apps Utilizing OpenAI API with Frontend Frameworks/Libraries
