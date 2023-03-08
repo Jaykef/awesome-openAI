@@ -46,6 +46,7 @@ A curated list of all things awesome about OpenAI - the research company behind 
   <li><a href="https://github.com/m1guelpf/chatgpt-discord">Dicord bot - ChatGPT for discord</a></li>
   <li><a href="https://github.com/acheong08/ChatGPT">ChatGPT Reversed Engineered api</a></li
   <li><a href="https://github.com/lencx/ChatGPT">ChatGPT unofficial desktop app</a></li>
+  <li><a href="https://github.com/Chanzhaoyu/chatgpt-web">ChatGPT Web (vue3, express, chatgpt api</a></li>
 </ul>
 
 ### Popular Repos
