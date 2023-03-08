@@ -44,6 +44,7 @@ A curated list of all things awesome about OpenAI - the research company behind 
   <li><a href="https://github.com/vincelwt/chatgpt-mac">Mac menubar ChatGPT App</a></li>
   <li><a href="https://github.com/cesarhuret/docGPT">Google docs bot - ChatGPT as Addon in Google docs</a></li>
   <li><a href="https://github.com/m1guelpf/chatgpt-discord">Dicord bot - ChatGPT for discord</a></li>
+  <li><a href="https://github.com/acheong08/ChatGPT">ChatGPT Reversed Engineered api</a></li
   <li><a href="https://github.com/lencx/ChatGPT">ChatGPT unofficial desktop app</a></li>
 </ul>
 
