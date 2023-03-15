@@ -57,8 +57,8 @@ A curated list of all things awesome about OpenAI - the research company behind 
 
 ### Latest News
 <ul>
-  <li><a href="https://openai.com/product/gpt-4">GPT-4</a></li>
-  <li><a href="https://github.com/openai/openai-quickstart-node">OpenAI Quick Start app</a></li>
+  <li><a href="https://openai.com/product/gpt-4">GPT-4 release</a></li>
+  <li><a href="https://openai.com/customer-stories/duolingo">GPT-4 deepens the conversation on Duolingo</a></li>
 </ul>
 
 ### Apps Utilizing OpenAI API with Frontend Frameworks/Libraries
