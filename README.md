@@ -24,6 +24,12 @@ A curated list of all things awesome about OpenAI - the research company behind 
   <li><a href="https://beta.openai.com/docs/models/content-filter">Content filter</a></li>
 </ul>
 
+### Latest News
+<ul>
+  <li><a href="https://openai.com/product/gpt-4">GPT-4</a></li>
+  <li><a href="https://github.com/openai/openai-quickstart-node">OpenAI Quick Start app</a></li>
+</ul>
+
 ### Guides on building applications
 <ul>
   <li><a href="https://beta.openai.com/docs/guides/completion">Text completioan</a></li>
