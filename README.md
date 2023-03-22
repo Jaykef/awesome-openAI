@@ -59,6 +59,7 @@ A curated list of all things awesome about OpenAI - the research company behind 
 ### Latest News
 <ul>
   <li><a href="https://openai.com/product/gpt-4">GPT-4 release</a></li>
+  <li><a href="https://openai.com/product/dall-e-2">Dalle-2 release</a></li>
   <li><a href="https://openai.com/customer-stories/duolingo">GPT-4 deepens the conversation on Duolingo</a></li>
 </ul>
 
