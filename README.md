@@ -58,6 +58,7 @@ A curated list of all things awesome about OpenAI - the research company behind 
  <li><a href="https://github.com/openai/openai-cookbook">OpenAI Cookbook - examples and guides for using the OpenAI API</a></li>
  <li><a href="https://github.com/f/awesome-chatgpt-prompts">Awesome Chatgpt Prompts</a></li>
  <li><a href="https://github.com/binary-husky/chatgpt_academic">ChatGPT Academic</a></li>
+ <li><a href="https://github.com/Yidadaa/ChatGPT-Next-Web">ChatGPT Next Web -  deploy chatgptUI</a></li>
 </ul>
 
 ### Latest News
