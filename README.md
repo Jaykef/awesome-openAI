@@ -11,6 +11,7 @@ A curated list of all things awesome about OpenAI - the research company behind 
   <li><a href="https://beta.openai.com/playground">OpenAI Playground</a></li>
   <li><a href="https://openai.com/blog">OpenAI Blog</a></li>
   <li><a href="https://openai.com/about">About OpenAI</a></li>
+  <li><a href="https://openai.com/research/gpt-4">GPT-4</a></li>
 </ul>
 
 ### Quick Start
