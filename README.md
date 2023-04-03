@@ -52,6 +52,13 @@ A curated list of all things awesome about OpenAI - the research company behind 
   <li><a href="https://github.com/Chanzhaoyu/chatgpt-web">ChatGPT Web (vue3, express, chatgpt api)</a></li>
 </ul>
 
+### OpenAI's Official Repos
+
+<ul>
+ <li><a href="https://github.com/openai/gym">Gym - A toolkit for developing and comparing reinforcement learning algorithms.</a></li>
+ <li><a href="https://github.com/openai/openai-cookbook">OpenAI Cookbook - examples and guides for using the OpenAI API</a></li>
+</ul>
+
 ### Popular Repos
 
 <ul>
