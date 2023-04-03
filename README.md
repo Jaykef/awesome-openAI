@@ -41,7 +41,7 @@ A curated list of all things awesome about OpenAI - the research company behind 
 <ul>
  <li><a href="https://github.com/openai/gym">Gym - A toolkit for developing and comparing reinforcement learning algorithms.</a></li>
  <li><a href="https://github.com/openai/spinningup">An educational resource to help anyone learn deep reinforcement learning.</a></li>
- <li><a href="https://github.com/openai/spinningup">An educational resource to help anyone learn deep reinforcement learning.</a></li>
+ <li><a href="https://github.com/openai/baselines">OpenAI Baselines: high-quality implementations of reinforcement learning algorithms</a></li>
 </ul>
 
 ### Popular Applications
