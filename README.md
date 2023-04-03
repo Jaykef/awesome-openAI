@@ -36,6 +36,14 @@ A curated list of all things awesome about OpenAI - the research company behind 
   <li><a href="https://beta.openai.com/docs/guides/fine-tuning">Fine-tuning</a></li>
 </ul>
 
+### OpenAI's Official Repos
+
+<ul>
+ <li><a href="https://github.com/openai/gym">Gym - A toolkit for developing and comparing reinforcement learning algorithms.</a></li>
+ <li><a href="https://github.com/openai/spinningup">An educational resource to help anyone learn deep reinforcement learning.</a></li>
+ <li><a href="https://github.com/openai/spinningup">An educational resource to help anyone learn deep reinforcement learning.</a></li>
+</ul>
+
 ### Popular Applications
 <ul>
   <li><a href="https://chat.openai.com/">ChatGPT - Official app</a></li>
@@ -50,13 +58,6 @@ A curated list of all things awesome about OpenAI - the research company behind 
   <li><a href="https://github.com/acheong08/ChatGPT">ChatGPT Reversed Engineered api</a></li
   <li><a href="https://github.com/lencx/ChatGPT">ChatGPT unofficial desktop app</a></li>
   <li><a href="https://github.com/Chanzhaoyu/chatgpt-web">ChatGPT Web (vue3, express, chatgpt api)</a></li>
-</ul>
-
-### OpenAI's Official Repos
-
-<ul>
- <li><a href="https://github.com/openai/gym">Gym - A toolkit for developing and comparing reinforcement learning algorithms.</a></li>
- <li><a href="https://github.com/openai/spinningup">An educational resource to help anyone learn deep reinforcement learning.</a></li>
 </ul>
 
 ### Popular Repos
