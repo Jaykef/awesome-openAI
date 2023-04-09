@@ -20,6 +20,9 @@ A curated list of all things awesome about OpenAI - the research company behind 
   <li><a href="https://github.com/openai/openai-quickstart-node">OpenAI Quick Start app</a></li>
 </ul>
 
+### How Tos
+  <li><a href="https://github.com/CodeSnippetHQ/tutorial-openai-chat-api">How to use OpenAI's ChatGPT API</a></li>
+  
 ### Models
 <ul>
   <li><a href="https://openai.com/product/gpt-4">GPT-4</a></li>
