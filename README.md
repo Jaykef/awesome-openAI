@@ -64,6 +64,7 @@ A curated list of all things awesome about OpenAI - the research company behind 
   <li><a href="https://github.com/lencx/ChatGPT">ChatGPT unofficial desktop app</a></li>
   <li><a href="https://github.com/Chanzhaoyu/chatgpt-web">ChatGPT Web (vue3, express, chatgpt api)</a></li>
   <li><a href="https://github.com/Significant-Gravitas/Auto-GPT">AutoGPT (An experimental open-source attempt to make GPT-4 fully autonomous)</a></li>
+  <li><a href="https://github.com/Vision-CAIR/MiniGPT-4">MiniGPT-4 (Enhancing Vision-language Understanding with Advanced Large Language Models)</a></li>
   
 </ul>
 
@@ -76,6 +77,7 @@ A curated list of all things awesome about OpenAI - the research company behind 
  <li><a href="https://github.com/binary-husky/chatgpt_academic">ChatGPT Academic</a></li>
  <li><a href="https://github.com/Yidadaa/ChatGPT-Next-Web">ChatGPT Next Web -  deploy chatgptUI</a></li>
  <li><a href="https://github.com/nomic-ai/gpt4all-ui">GPT4 All chatbot UI</a></li>
+ <li><a href="https://github.com/Significant-Gravitas/Auto-GPT">AutoGPT (An experimental open-source attempt to make GPT-4 fully autonomous)</a></li>
  
 </ul>
 
