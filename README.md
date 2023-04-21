@@ -63,6 +63,8 @@ A curated list of all things awesome about OpenAI - the research company behind 
   <li><a href="https://github.com/acheong08/ChatGPT">ChatGPT Reversed Engineered api</a></li
   <li><a href="https://github.com/lencx/ChatGPT">ChatGPT unofficial desktop app</a></li>
   <li><a href="https://github.com/Chanzhaoyu/chatgpt-web">ChatGPT Web (vue3, express, chatgpt api)</a></li>
+  <li><a href="https://github.com/Significant-Gravitas/Auto-GPT">AutoGPT (An experimental open-source attempt to make GPT-4 fully autonomous)</a></li>
+  
 </ul>
 
 ### Popular Repos
