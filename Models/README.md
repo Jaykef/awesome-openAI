@@ -5,3 +5,5 @@ The OpenAI API is powered by a diverse set of models with different capabilities
 ## Models Descriptions
 <img src="./images/model.png" />
 
+## Model Endpoint Capability
+<img src="./images/model_endpoint.png" />
