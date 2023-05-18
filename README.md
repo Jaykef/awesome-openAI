@@ -127,4 +127,6 @@ All API requests should include your API key in an Authorization HTTP header as 
 Authorization: Bearer YOUR_API_KEY
 ```
 
+## Credit
+OpenAI
 
