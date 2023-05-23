@@ -3,4 +3,4 @@ GPT-4 is a large multimodal model (accepting text inputs and emitting text outpu
 
 <img src="../images/gpt-4.png" />
 
-For many basic tasks, the difference between GPT-4 and GPT-3.5 models is not significant. However, in more complex reasoning situations, GPT-4 is much more capable than any of our previous models.
+For many basic tasks, the difference between GPT-4 and GPT-3.5 models is not significant. However, in more complex reasoning situations, GPT-4 is much more capable than any of our previous models. <a href="https://openai.com/research/gpt-4" >Read More</a>
