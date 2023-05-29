@@ -79,6 +79,8 @@ A curated list of all things awesome about OpenAI - the research company behind 
  <li><a href="https://github.com/nomic-ai/gpt4all-ui">GPT4 All chatbot UI</a></li>
  <li><a href="https://github.com/Significant-Gravitas/Auto-GPT">AutoGPT (An experimental open-source attempt to make GPT-4 fully autonomous)</a></li>
  <li><a href="https://github.com/AIGC-Audio/AudioGPT">AudioGPT (Understanding and Generating Speech, Music, Sound, and Talking Head)</a></li>
+   <li><a href="https://github.com/OpenGVLab/InternGPT">InternGPT (open source demo platform where you can easily showcase your AI modeld)</a></li>
+  
  
  
 </ul>
