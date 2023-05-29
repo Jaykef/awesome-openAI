@@ -46,7 +46,9 @@ A curated list of all things awesome about OpenAI - the research company behind 
 
 ### How Tos
   <li><a href="https://github.com/CodeSnippetHQ/tutorial-openai-chat-api">How to use OpenAI's ChatGPT API</a></li>
+  <li><a href="https://github.com/Jaykef/awesome-openAI/blob/main/How-Tos-JupyterNotes/How_to_count_tokens_with_tiktoken.ipynb">How to count tokens with tiktoken </a></li>
   <li><a href="https://github.com/yoheinakajima/babyagi">BabyAGI - agi powered by OpenAI </a></li>
+  
   
   
 ### Popular Applications
