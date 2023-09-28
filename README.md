@@ -13,6 +13,7 @@ A curated list of all things awesome about OpenAI - the research company behind 
   <li><a href="https://openai.com/about">About OpenAI</a></li>
   <li><a href="https://openai.com/blog/function-calling-and-other-api-updates">Function API Call</a></li>
   <li><a href="https://openai.com/research/gpt-4">GPT-4 Technical Report</a></li>
+  <li><a href="https://openai.com/research/gpt-4v-system-card">GPT-4 Vision Card</a></li>
 </ul>
 
 ### Quick Start
