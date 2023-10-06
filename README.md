@@ -27,7 +27,7 @@ A curated list of all things awesome about OpenAI - the research company behind 
 <ul>
   <li><a href="https://openai.com/product/gpt-4">GPT-4</a></li>
   <li><a href="https://beta.openai.com/docs/models/gpt-3">GPT-3</a></li>
-  <li><a href="https://openai.com/dall-e-3">Dalle</a></li>
+  <li><a href="https://openai.com/dall-e-3">Dalle 3</a></li>
   <li><a href="https://openai.com/research/whisper">Whisper</a></li>
   <li><a href="https://beta.openai.com/docs/models/codex">Codex</a></li>
   <li><a href="https://beta.openai.com/docs/models/content-filter">Content filter</a></li>
