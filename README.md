@@ -99,7 +99,8 @@ A curated list of all things awesome about OpenAI - the research company behind 
 <ul>
   <li><a href="https://openai.com/research/gpt-4v-system-card">GPT-4 Vision Card</a></li>
   <li><a href="https://openai.com/blog/dall-e-3-is-now-available-in-chatgpt-plus-and-enterprise">Dalle-3 Now on ChatGPT</a></li>
-  <li><a href="https://openai.com/dall-e-3">Dalle 3</a></li>
+  <li><a href="https://openai.com/research/language-models-can-explain-neurons-in-language-models">LLMs can explain neurons in language models</a></li>
+  <li><a href="https://openai.com/dall-e-3">Dalle-3 Official Release</a></li>
   <li><a href="https://openai.com/product/gpt-4">GPT-4 release</a></li>
   <li><a href="https://openai.com/blog/introducing-superalignment">Introducing Superalignment</a></li>
   <li><a href="https://openai.com/product/dall-e-2">Dalle-2 release</a></li>
