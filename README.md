@@ -16,6 +16,8 @@ A curated list of all things awesome about OpenAI - the research company behind 
   <li><a href="https://openai.com/research/gpt-4v-system-card">GPT-4 Vision Card</a></li>
   <li><a href="https://openai.com/dall-e-3">Dalle 3</a></li>
   <li><a href="https://openai.com/blog/new-models-and-developer-products-announced-at-devday">GPT-4 Turbo, GPT-4 Vision, Dalle-3 api</a></li>
+  <li><a href="https://openai.com/blog/openai-announces-leadership-transition">Sam Altman Ousted as CEO</a></li>
+  
   
 </ul>
 
@@ -99,6 +101,7 @@ A curated list of all things awesome about OpenAI - the research company behind 
 
 ### Latest News
 <ul>
+  <li><a href="https://openai.com/blog/openai-announces-leadership-transition">Sam Altman Ousted as CEO</a></li>
   <li><a href="https://openai.com/blog/new-models-and-developer-products-announced-at-devday">GPT-4 Turbo, GPT-4 Vision, Dalle-3 api</a></li>
   <li><a href="https://openai.com/blog/introducing-gpts">Introducing GPTs</a></li>
   <li><a href="https://openai.com/research/gpt-4v-system-card">GPT-4 Vision Card</a></li>
