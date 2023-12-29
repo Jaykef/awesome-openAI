@@ -63,7 +63,6 @@ A curated list of all things awesome about OpenAI - the research company behind 
   <li><a href="https://github.com/Jaykef/awesome-openAI/edit/main/README.md#:~:text=How_to_stream_completion">How to stream completions</a></li>
   
   
-  
 ### Popular Applications
 <ul>
   <li><a href="https://chat.openai.com/">ChatGPT - Official app</a></li>
@@ -82,6 +81,11 @@ A curated list of all things awesome about OpenAI - the research company behind 
   <li><a href="https://github.com/LinkSoul-AI/AutoAgents">AutoAgents (Generate different roles for GPTs to form a collaborative entity for complex tasks)</a></li>
   <li><a href="https://github.com/Vision-CAIR/MiniGPT-4">MiniGPT-4 (Enhancing Vision-language Understanding with Advanced Large Language Models)</a></li>
   
+</ul>
+
+### Latest Research Publications
+<ul>
+  <li><a href="https://openai.com/research/weak-to-strong-generalization">Weak-to-Strong Generalization</a></li>
 </ul>
 
 ### Popular Repos
@@ -103,6 +107,8 @@ A curated list of all things awesome about OpenAI - the research company behind 
 
 ### Latest News
 <ul>
+  
+  <li><a href="https://openai.com/blog/sam-altman-returns-as-ceo-openai-has-a-new-initial-board">Sam Altman returns as CEO, OpenAI has a new initial board</a></li>
   <li><a href="https://openai.com/blog/openai-announces-leadership-transition">Sam Altman Ousted as CEO</a></li>
   <li><a href="https://openai.com/blog/new-models-and-developer-products-announced-at-devday">GPT-4 Turbo, GPT-4 Vision, Dalle-3 api</a></li>
   <li><a href="https://openai.com/blog/introducing-gpts">Introducing GPTs</a></li>
