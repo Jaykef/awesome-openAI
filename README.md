@@ -50,12 +50,16 @@ A curated list of all things awesome about OpenAI - the research company behind 
 
 ### OpenAI's Official Repos
 <ul>
+  
+ <li><a href="https://github.com/openai/gpt-2">GPT-2: Code for the paper "Language Models are Unsupervised Multitask Learners"</a></li>
+ <li><a href="https://github.com/openai/whisper">Whisper: Robust Speech Recognition via Large-Scale Weak Supervision</a></li>
  <li><a href="https://github.com/openai/openai-python">openAI-python: The official Python library for the OpenAI API</a></li>
+ <li><a href="https://github.com/openai/openai-cookbook">OpenAI Cookbook: Examples and guides for using the OpenAI API</a></li>
  <li><a href="https://github.com/openai/openai-node">openAI-node: The official Node.js / Typescript library for the OpenAI APII</a></li>
  <li><a href="https://github.com/openai/gym">Gym - A toolkit for developing and comparing reinforcement learning algorithms.</a></li>
  <li><a href="https://github.com/openai/spinningup">Spinning up - An educational resource to help anyone learn deep reinforcement learning.</a></li>
  <li><a href="https://github.com/openai/baselines">OpenAI Baselines: high-quality implementations of reinforcement learning algorithms</a></li>
- <li><a href="https://github.com/openai/baselines">OpenAI Baselines: high-quality implementations of reinforcement learning algorithms</a></li>
+ <li><a href="https://github.com/openai/evals">Evals: Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.</a></li>
 </ul>
 
 ### How Tos
