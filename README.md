@@ -117,7 +117,7 @@ A curated list of all things awesome about OpenAI - the research company behind 
 
 ### Latest News
 <ul>
-  
+  <li><a href="https://openai.com/blog/introducing-the-gpt-store">Introducing The GPT Store</a></li>
   <li><a href="https://openai.com/blog/sam-altman-returns-as-ceo-openai-has-a-new-initial-board">Sam Altman returns as CEO, OpenAI has a new initial board</a></li>
   <li><a href="https://openai.com/blog/openai-announces-leadership-transition">Sam Altman Ousted as CEO</a></li>
   <li><a href="https://openai.com/blog/new-models-and-developer-products-announced-at-devday">GPT-4 Turbo, GPT-4 Vision, Dalle-3 api</a></li>
