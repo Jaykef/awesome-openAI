@@ -20,9 +20,8 @@ A curated list of all things awesome about OpenAI - the research company behind 
   <li><a href="https://openai.com/blog/new-models-and-developer-products-announced-at-devday">GPT-4 Turbo, GPT-4 Vision, Dalle-3 api</a></li>
   <li><a href="https://openai.com/blog/openai-announces-leadership-transition">Sam Altman Ousted as CEO</a></li>
   <li><a href="https://openai.com/blog/sam-altman-returns-as-ceo-openai-has-a-new-initial-board">Sam Altman returns as CEO, OpenAI has a new initial board</a></li>
+  <li><a href="https://openai.com/sora">New Model: SORA - an AI model that can create realistic and imaginative scenes from text instructions. </a></li>
  
-  
-  
 </ul>
 
 ### Quick Start
@@ -38,6 +37,7 @@ A curated list of all things awesome about OpenAI - the research company behind 
   <li><a href="https://openai.com/dall-e-3">Dalle 3</a></li>
   <li><a href="https://openai.com/research/whisper">Whisper</a></li>
   <li><a href="https://beta.openai.com/docs/models/codex">Codex</a></li>
+  <li><a href="https://openai.com/sora">SORA</a></li>
   <li><a href="https://beta.openai.com/docs/models/content-filter">Content filter</a></li>
 </ul>
 
@@ -72,7 +72,14 @@ A curated list of all things awesome about OpenAI - the research company behind 
   <li><a href="https://github.com/Jaykef/awesome-openAI/edit/main/README.md#:~:text=How_to_handle_rate_limits">How to handle rate limits</a></li>
   <li><a href="https://github.com/Jaykef/awesome-openAI/edit/main/README.md#:~:text=How_to_stream_completion">How to stream completions</a></li>
 </ul>
+
+### Technical Reports
+<ul>
+  <li><a href="https://openai.com/research/video-generation-models-as-world-simulators">Sora Technical Report</a></li>
+  <li><a href="https://cdn.openai.com/papers/gpt-4.pdf">GPT-4 Technical Report</a></li>
+  <li><a href="https://openai.com/research/gpt-4v-system-card">GPT-4 Vision Report</a></li>
   
+</ul>
   
 ### Popular Applications
 <ul>
