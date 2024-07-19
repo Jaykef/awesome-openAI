@@ -71,6 +71,7 @@ A curated list of all things awesome about OpenAI - the research company behind 
   <li><a href="https://github.com/Jaykef/awesome-openAI/edit/main/README.md#:~:text=How_to_format_inputs_to_ChatGPT_models">How to format inputs to ChatGPT Models</a></li>
   <li><a href="https://github.com/Jaykef/awesome-openAI/edit/main/README.md#:~:text=How_to_handle_rate_limits">How to handle rate limits</a></li>
   <li><a href="https://github.com/Jaykef/awesome-openAI/edit/main/README.md#:~:text=How_to_stream_completion">How to stream completions</a></li>
+  <li><a href="https://www.zenml.io/blog/the-ultimate-guide-to-llm-batch-inference-with-openai-and-zenml">How to use minimise costs with batch inference</a></li>
 </ul>
 
 ### Technical Reports
