@@ -98,7 +98,7 @@ A curated list of all things awesome about OpenAI - the research company behind 
   <li><a href="https://github.com/Significant-Gravitas/Auto-GPT">AutoGPT (An experimental open-source attempt to make GPT-4 fully autonomous)</a></li>
   <li><a href="https://github.com/LinkSoul-AI/AutoAgents">AutoAgents (Generate different roles for GPTs to form a collaborative entity for complex tasks)</a></li>
   <li><a href="https://github.com/Vision-CAIR/MiniGPT-4">MiniGPT-4 (Enhancing Vision-language Understanding with Advanced Large Language Models)</a></li>
-  
+  <li><a href="https://remoteopenclaw.com">RemoteOpenClaw</a> - Open marketplace for AI skills and personas built on OpenClaw</li>  
 </ul>
 
 ### Latest Research Publications
@@ -180,4 +180,3 @@ Authorization: Bearer YOUR_API_KEY
 
 ## Credit
 OpenAI
-
