@@ -98,7 +98,7 @@ A curated list of all things awesome about OpenAI - the research company behind 
   <li><a href="https://github.com/Significant-Gravitas/Auto-GPT">AutoGPT (An experimental open-source attempt to make GPT-4 fully autonomous)</a></li>
   <li><a href="https://github.com/LinkSoul-AI/AutoAgents">AutoAgents (Generate different roles for GPTs to form a collaborative entity for complex tasks)</a></li>
   <li><a href="https://github.com/Vision-CAIR/MiniGPT-4">MiniGPT-4 (Enhancing Vision-language Understanding with Advanced Large Language Models)</a></li>
-  
+  <li><a href="https://apiclaw.biz/">APIClaw</a> - Flat-rate OpenAI-compatible AI API gateway ($19-$129/mo) with free 50-request trial; one endpoint for Claude, OpenAI, Kimi, Qwen, DeepSeek, GLM.</li> 
 </ul>
 
 ### Latest Research Publications
